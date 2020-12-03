@@ -1,1 +1,1 @@
-echo "# test_hello"
+"test_hello"
